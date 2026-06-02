@@ -69,7 +69,7 @@ Interactive trivia application built with React Router and Context API that fetc
 
 📧 Email: jaffdavy100@gmail.com
 
-💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/jaff-davy-arnold-5ba749297/)
+💼 LinkedIn: https://www.linkedin.com/in/jaff-davy-arnold-5ba749297
 
 🐙 GitHub: github.com/JaffDavy
 
